@@ -95,7 +95,7 @@ useEffect(() => {
 
 return ( 
 	<Container> 
-		<THeading>GeeksforGeeks</THeading> 
+		<THeading></THeading> 
 	<Heading>Expense Tracker</Heading> 
 	<OverviewComponent 
 		toggle={toggle} 
